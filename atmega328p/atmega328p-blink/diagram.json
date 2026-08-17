@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "author": "Ishaan Sheth",
+  "editor": "wokwi",
+  "parts": [ { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} } ],
+  "connections": [],
+  "dependencies": {}
+}
