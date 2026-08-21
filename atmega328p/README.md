@@ -2,7 +2,7 @@
 
 This repository contains simple **bare-metal programming examples for the ATmega328P**. The projects demonstrate direct interaction with the microcontroller's hardware registers without relying on the Arduino framework.
 
-Refer [Blog](https://ishaantheguy.in) for better understanding on how to approach and understand such programs
+Refer [Blog](https://ishaantheguy.in/blog/bare-metal-atmega328p/) for better understanding on how to approach and understand such programs
 
 ## Projects
 
